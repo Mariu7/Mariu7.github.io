@@ -1,19 +1,19 @@
 <style>
 .btl-layout {
-	display: flex;
-	min-height: 100vh;
+	display: block;
 }
 
 .btl-sidebar {
 	width: 240px;
-	position: sticky;
+	position: fixed;
+	left: 0;
 	top: 0;
-	align-self: flex-start;
 	height: 100vh;
 	padding: 20px 16px;
 	box-sizing: border-box;
 	background: #0f172a;
 	color: #e2e8f0;
+	overflow-y: auto;
 }
 
 .btl-sidebar h2 {
@@ -37,25 +37,31 @@
 }
 
 .btl-main {
-	flex: 1;
-	min-width: 0;
-	padding: 20px 24px;
-	box-sizing: border-box;
+	display: block;
+}
+
+@media (min-width: 901px) {
+	.markdown-body {
+		margin-left: 264px;
+		max-width: none;
+		padding-right: 24px;
+	}
 }
 
 @media (max-width: 900px) {
 	.btl-layout {
-		flex-direction: column;
+		display: block;
 	}
 
 	.btl-sidebar {
 		width: 100%;
 		height: auto;
 		position: static;
+		overflow-y: visible;
 	}
 
-	.btl-main {
-		padding: 16px;
+	.markdown-body {
+		margin-left: 0;
 	}
 }
 </style>
@@ -66,8 +72,7 @@
 		<a class="active" href="./index.html">Rulebook</a>
 		<a href="./standings.html">Standings Sheet</a>
 	</nav>
-
-	<main class="btl-main">
+</div>
 
 # Baltic Trackmania League
 
@@ -431,6 +436,3 @@ Play-offs:
 - Warm-up: 20 seconds
 - Finish timeout: 10 seconds
 - Point repartition: 10,6,4,3
-
-	</main>
-</div>
