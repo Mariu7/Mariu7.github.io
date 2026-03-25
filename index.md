@@ -1,341 +1,362 @@
-**BALTIC TRACKMANIA LEAGUE**  
-*Rulebook Ver. 23022026.1*
+# Baltic Trackmania League
 
-*Table of contents*
+![Baltic Trackmania League logo](assets/images/btl-logo.png)
 
-**[1\. Event Overview.	2](#event-overview.)**
+Rulebook Version: 23022026.1
 
-[**2\. Participation:	2**](#participation:)
+## Table of Contents
 
-[**3\. Registration	4**](#registration)
+1. [Event Overview](#1-event-overview)
+2. [Participation](#2-participation)
+3. [Registration](#3-registration)
+4. [Rewards](#4-rewards)
+5. [Event Structure](#5-event-structure)
+6. [Event Schedule and Location](#6-event-schedule-and-location)
+7. [Streaming](#7-streaming)
+8. [Appendix 1 - Game Settings](#8-appendix-1---game-settings)
 
-[**4\. Rewards	5**](#rewards)
+## 1. Event Overview
 
-[**5\. Event Structure	6**](#event-structure)
+The Baltic Trackmania League is a series of Trackmania tournaments in the Baltic region (Latvia, Lithuania, Estonia).
 
-[**6\. Event Schedule and Location	10**](#event-schedule-and-location)
+The Winter 2026 edition takes place in Trackmania (2020) and consists of:
+- Division League Stages
+- Last Chance Qualifier
+- Final Event
 
-[**7\. Streaming	10**](#streaming)
+Organizers reserve the right to adjust rules during the competition when needed.
 
-1. # **Event Overview.** {#event-overview.}
+## 2. Participation
 
-The Baltic Trackmania League is a series of Trackmania tournaments in the Baltic region *(Latvia, Lithuania, Estonia)*.  
-The Winter 2026 Edition takes place in the Trackmania (2020) game.  
-It consists of:
+To participate in the League, a player must be from one of the Baltic States (Latvia, Lithuania, Estonia) and have Trackmania (2020) Club Access on PC, console, or cloud.
 
-* Division League Stages  
-* Last Chance  
-* Final Event
+### 2.1 Eligibility
 
-*Organizers of the event reserve the right to adjust the rules during the competition.*
+Players may be asked to provide documents that verify residency or nationality.
 
-2. # **Participation:** {#participation:}
+A participant is eligible if at least one of the following is true:
+- The player has a passport from Latvia, Lithuania, or Estonia.
+- The player has legal residency in Latvia, Lithuania, or Estonia.
 
-To participate in the League, a player must be from the Baltic States *(Latvia, Lithuania, Estonia)* and needs to have *Trackmania (2020)* Club Versions on PC, Console, or Cloud version of the game.
+### 2.2 Flag Requirement
 
-Players are obligated to play with the country flag they are representing otherwise, players will be disqualified from the event.  
-Staff and mappers are allowed to participate in the event.  
-Players can be asked for some documents that verify their residency or belonging to these nations.  
-The following factors make participants eligible to participate:
+Players must use the country flag of the nation they represent. Failure to do so may result in disqualification.
 
-* The player has a passport to these countries.  
-* The player has a residency in these countries.
+### 2.3 Staff and Mappers
 
-Disqualification:
+Staff members and mappers are allowed to participate.
 
-* *If there will be suspicious registration from players from different locations, players will be banned for 3 years.*  
-* *Flag misuse can result in a half-year ban.*  
-* *Players using 3rd party software that changes the game's physics during the event will be perma-ban from all Baltic events.*  
-* *Playing under different users' profiles will be a permanent ban from future Baltic Events.*
+### 2.4 Disciplinary Actions
 
+- Suspicious registration from unrelated regions may result in a 3-year ban.
+- Flag misuse may result in a 6-month ban.
+- Use of third-party software that alters game physics results in a permanent ban from Baltic events.
+- Playing under another player's profile results in a permanent ban from future Baltic events.
 
-*Code of Conduct:*
+### 2.5 Code of Conduct
 
-* *Participants are obliged to uphold the standards of fair competition and to always perform to the best extent of their abilities. Unnecessary DNFs and trolling will not be tolerated and may result in suspension for one season.*  
-* *Once the player confirms their participation in the tournament after qualifying they are expected to participate in all the scheduled matches until they are eliminated. Failing to perform may result in suspension for one season. Exceptions will be given in case of emergencies if they are communicated to admins in a timely manner.*  
-* *Rude behavior to staff or other participants can result in a suspension of one season, including other Baltic Trackmania-related events*
+- Participants must uphold fair competition and play to the best of their ability.
+- Intentional trolling or unnecessary DNFs are not tolerated and may lead to a one-season suspension.
+- Once a player confirms participation after qualifying, they are expected to play all scheduled matches until elimination.
+- Missing matches without timely communication may result in a one-season suspension.
+- Emergencies can be considered if communicated to admins in time.
+- Rude behavior toward staff or participants may result in a one-season suspension, including other Baltic Trackmania-related events.
 
+## 3. Registration
 
-3. # **Registration** {#registration}
+Registration is handled in-game through the Events tab or the Baltic Trackmania club.
 
-The registration procedure is handled by the in-game system through the events tab or **Baltic Trackmania** club in-game.
+### 3.1 Requirements
 
-To sign up, players are required to have **Club Access** as well and have to fit the participant criteria.
+To register, players must:
+- Have Club Access
+- Meet all participation criteria
+- Be present in the Baltic Trackmania Discord, where official communication is handled
 
-Participants have to be present on the [Baltic Trackmania discord](https://discord.gg/G9nr3Pa), where the main communication regarding the event will be held.
+Discord: https://discord.gg/G9nr3Pa
 
-The in-game events will become available for registration for each stage individually and will be open per stage till 20:59 EET
+### 3.2 Registration Window
 
-Registration is held in-game \- **Events Tab** section.\*
+- Registration opens 3 days before each stage.
+- Registration for each stage remains open until 20:59 EET on event day.
 
-Registration location: 
+### 3.3 Registration Location
 
-Play \-\> Live \-\> Events \-\> “BTL \<Stage X\>”\*\*
+Play -> Live -> Events -> BTL <Stage X>
 
-*\*- Registration will be opened 3 days before the event starts*
+With registration, participants agree to this rulebook and the Ubisoft Code of Conduct for the entire competition.
 
-*\*\*- In-game registration, the X will change to the respective event number.*
+## 4. Rewards
 
-*With one registration, the participant agrees to the rules and Ubisoft CODE OF CONDUCT for the rest of the competition.*
+The prize pool is announced through official communication channels and may be updated here.
 
-4. # **Rewards** {#rewards}
+### 4.1 Historical Prize Pool Notes
 
-The prize pool for the event is mentioned in the communication channels, else will be updated here:
+- Spring 2023: 340 EUR
+- Summer 2023: 340 EUR, CCB qualification
+- Spring 2024: CCB qualification
+- Summer 2024: 500 EUR
+- Winter 2025: 400 EUR, CCB qualification
+- Fall 2025: 400 EUR
+- Winter 2026: 400 EUR (to be concluded)
 
-* Spring 2023 \- 340EUR  
-* Summer 2023 \- 340EUR, CCB Qualification  
-* Spring 2024 \- CCB Qualification  
-* Summer 2024 \- 500 EUR  
-* Winter 2025 \- 400 EUR, CCB Qualification  
-* Fall 2025 \- 400 EUR  
-* Winter 2026 \- 400 EUR (To be concluded)
+### 4.2 Winter 2026 Base Prize Pool
 
-The base prize pool for the Winter 2026 event will be **400 EUR.**
+Base prize pool: 400 EUR
 
-**Also:**
-
-- Custom car skin design for the Champion by mars\_dzn  
-- Secret prize 2
-
-**FINALS Play-off event prizes and reward:**
-
-1. 200 EUR  
-2. 125 EUR  
-3. 50 EUR  
+Final Event play-off rewards:
+1. 200 EUR
+2. 125 EUR
+3. 50 EUR
 4. 25 EUR
 
-*The prize pool can increase during the competition with prize pool contributions.*
+Additional rewards:
+- Custom champion car skin by mars_dzn
+- Secret Prize 2
 
-*If you wish to support*
+The prize pool may increase during the competition through community contributions.
 
-The base prize pool will be sent by Marchielli with DIRECT BANK TRANSFERS ONLY. *(Discord: marchielli)*
+Base prize money is paid by Marchielli via direct bank transfer only.
+Provider contact: Discord user marchielli
 
-*The Prize Pool for the Winter 2026 Edition of BTL is provided by Marchielli.*  
-*Additional expenses are covered by Matty from [GOTA](https://www.mbgota.com/).*
+The Winter 2026 prize pool is provided by Marchielli.
+Additional expenses are covered by Matty from GOTA: https://www.mbgota.com/
 
-5. # **Event Structure** {#event-structure}
+## 5. Event Structure
 
-Baltic Trackmania League Fall 2025 consists of:
+Baltic Trackmania League Winter 2026 consists of:
+- League Division Stages
+- Last Chance Qualifier
+- Final Event
 
-* League Division Stages  
-* Last Chance  
-* Final Event.
+### 5.1 Division Stages
 
-  **5.1. BALTIC TRACKMANIA LEAGUE DIVISION STAGES**
+The League has 6 stages, played on Wednesdays and Saturdays at 21:00 EET (after COTD).
 
-Baltic Trackmania League Stages consists of 6 stages, which occur on Wednesdays and Saturdays at 21:00 EET, after COTD.  
-Each stage consists of:
+Each stage has:
+- Time Attack Qualification and Seeding (15 minutes)
+- Division Play
 
-- Time Attack Qualification & Seeding
+#### 5.1.1 Divisions
 
-15 minutes time limit
+Players are split into divisions by qualification result:
+- Division 1: 8 players
+- Division 2: 8 players
+- Division 3: up to 24 players
 
-- BTL Division Play
+If a division has fewer than 4 players, those players move into the upper division, and points are repartitioned jointly.
 
-	Players are split into multiple divisions based on their Qualification results. The top 2 divisions consist of 8 players each, and division 3 has up to 24 players who have not made it to the higher divisions.  
-*If there are less than 4 players in the division, they will be added into the upper division and Points repartition will be joint, e.g. Division 2 places 9, 10, and 11 receive Divison 3 points for 1st, 2nd, and 3rd place respectively.*  
-	**DIVISION FORMAT**  
-Each division is played in Double Elimination Cup Classic Game mode, using the map, which was presented in the Qualification phase.  
-After the stage, there are tier based points given to the players, based on their position in the division and bracket.  
-There are 3 Tiers of Points:
+#### 5.1.2 Division Match Format
 
-* Gold Points  
-* Silver Points  
-* Bronze Points
+- Mode: Cup Classic
+- Bracket: Double Elimination
+- Map: the stage map from qualification
 
-*The points in taken into consideration with the following priority Gold \<- Silver \<- Bronze*  
-For official standings, it take into consideration the **3 BEST STAGE PERFORMANCES**
+Points are awarded by tier:
+- Gold Points
+- Silver Points
+- Bronze Points
 
-|  | DIVISION 1 | DIVISION 2 | DIVISION 3 |
-| :---: | :---: | :---: | :---: |
-| 1st Place | 10 Gold Points | 1 Gold Point | 2 Silver Points |
-| 2nd Place  | 6 Gold Points | 10 Silver Points | 1 Silver Point |
-| 3rd Place  | 4 Gold Points | 6 Silver Points | 10 Bronze Points |
-| 4th Place | 3 Gold Points | 4 Silver Points | 6 Bronze Points |
-| 5-6th Place | 2 Gold Points | 3 Silver Points | 4 Bronze Points |
-| 7-8th Place | 1 Gold Point | 2 Silver Points | 2 Bronze Points |
-| Participation | \- | \- | 1 Bronze Point |
+Official standings prioritize points in this order:
+1. Gold
+2. Silver
+3. Bronze
 
-# 
+Official standings use each player's 3 best stage performances.
 
-The events will provide participants an opportunity to earn points towards a qualification in the Baltic Trackmania League FINAL EVENT.  
-Tie Breakers for standings are:
+| Placement | Division 1 | Division 2 | Division 3 |
+| :-- | :-- | :-- | :-- |
+| 1st | 10 Gold | 1 Gold | 2 Silver |
+| 2nd | 6 Gold | 10 Silver | 1 Silver |
+| 3rd | 4 Gold | 6 Silver | 10 Bronze |
+| 4th | 3 Gold | 4 Silver | 6 Bronze |
+| 5th-6th | 2 Gold | 3 Silver | 4 Bronze |
+| 7th-8th | 1 Gold | 2 Silver | 2 Bronze |
+| Participation | - | - | 1 Bronze |
 
-1. Gold Points  
-2. Silver Points  
-3. Bronze Points  
-4. Total Gold Points  
-5. Total Silver Points  
-6. Total Bronze Points  
-7. Last Event Placement  
+Stage results contribute toward qualification for the Final Event.
+
+Tie-breakers for stage standings:
+1. Gold Points
+2. Silver Points
+3. Bronze Points
+4. Total Gold Points
+5. Total Silver Points
+6. Total Bronze Points
+7. Last Event Placement
 8. Last Event Qualification Score Placement
 
-**5.2. BALTIC TRACKMANIA LEAGUE FINALS EVENT**   
-Baltic Trackmania League Finals event consists of 16 players:
+### 5.2 Finals Event
 
-* Winner of any Stage of the Qualifier earns direct invite to the Play-offs  
-  * Stage win supersedes Points for the Seeding purposes. Stage winner is guaranteed to have Seed 6 or above in the Play-offs  
-  * Stage winner Seeding tie breakers:  
-    * Number of Stages won  
-    * Official points standings  
-    * Total points standings  
-    * Stage 1 win \> Stage 2 win \> …  
-* Remaining Play-off slots will be distributed based on the Official Points standings to complete a line-up of 14 players.  
-* Winner and Runner-up of the Last Chance Qualifier
+The Finals Event has 16 players:
+- Winners of qualifier stages receive direct invites to play-offs.
+- Stage winners are guaranteed Seed 6 or above.
+- Remaining play-off slots are filled by Official Points standings to complete 14 players.
+- Last Chance Qualifier winner and runner-up complete the final 16.
 
-Maps for the Finals event will be the maps used during the qualifier Stages.  
-All maps will be released during the respective Stage, leaving various time for practice. Administration will aim to release maps in order of difficulty to ensure reasonable preparation is possible for all maps.
+Stage-winner seeding tie-breakers:
+1. Number of stages won
+2. Official points standings
+3. Total points standings
+4. Earlier stage win priority (Stage 1 > Stage 2 > ...)
 
-The Play-off has 2 phases:
+Finals maps are the same maps used during qualifier stages.
+Maps are released during their respective stages. Administration will aim to release maps in increasing difficulty order.
 
-* Group Stage  
-* Play-off
+The Play-off phase has:
+- Group Stage
+- Play-offs
 
-Group Stage is the qualifying stage of the event to reach the Play-off, where 8 best players will qualify to the Play-off stage  
-It is Played in 1v1v1v1 and 1v1v1v1v1v1 Fixed Win/Loss Swiss System. Using the Cup mode Game mode.  
-Players who Secure Top 2 (Top 3 in 6-way 1-2 2-1 and 2-2 Matches) receive a match win, rest get a loss.  
-Players With 3 Match wins Qualify to Play-off.  
-Players With 3 Match loses are Eliminated 
+#### 5.2.1 Group Stage
 
-For Tie breaker situations Hierarchy is as follows:
+- Format: Swiss system in 1v1v1v1 and 1v1v1v1v1v1 matches
+- Mode: Cup
+- Top 2 (or Top 3 in 6-way 2-1, 1-2, and 2-2 matches) earn a match win
+- Other players receive a match loss
+- 3 match wins = qualify for play-offs
+- 3 match losses = elimination
 
-1. Match Wins   
-2. Place Count 1st \> 2nd \> 3rd \> 4th \> 5th \> 6th *(Examples of seeding in Appendix 2\)*    
-3. Matchup comparison *(How players did when they played against each other)*  
-4. Last Round Position in a decisive match.
+Group-stage tie-breaker hierarchy:
+1. Match wins
+2. Place count (1st > 2nd > 3rd > 4th > 5th > 6th)
+3. Head-to-head matchup comparison
+4. Last-round position in a decisive match
 
-Playoff games consist of the Top 8 players of the Group Stage  
-The playoffs use a Double Elimination bracket and the Cup mode \-  game mode, with 4 *(1v1v1v1)* players in each game . 
+#### 5.2.2 Play-offs
 
-Players are Seeded Like this:
+Top 8 players from Group Stage advance.
 
-* Semi-Final \#1  
-  * 1st Group Stage  
-  * 4th Group Stage  
-  * 5th Group Stage  
-  * 8th Group Stage  
-*  Semi-Final \#2  
-  * 2nd Group Stage  
-  * 3rd Group Stage  
-  * 6th Group Stage  
-  * 7th Group Stage
+- Format: Double Elimination
+- Mode: Cup
+- Match size: 4 players (1v1v1v1)
 
-*Detailed match settings are available in Appendix 1\.*
+Seeding:
+- Semi-Final 1: 1st, 4th, 5th, 8th from Group Stage
+- Semi-Final 2: 2nd, 3rd, 6th, 7th from Group Stage
 
-5.3. Last Chance  
-Last Chance will be the portion of Baltic Trackmania League, that will take place between the regular stages and Final event and is meant to decide the final participants for the Finals event.  
-Last Chance Tournament participants can be any players eligible for the Baltic Trackmania League. Last Chance will consist of all maps from the official pack.  
-	All players already qualified for the event are not allowed to participate in the LCQ.	This event will be played in rounds mode, with 5 rounds per map on all the 6 maps of the Final Event.  
-	Winner & Runner-up of the Last Chance will be qualified to the Final event.  
-	Positions from the Last Chance qualifier will be considered as the seeding positions for the Final event.  
-	Tiebreakers:
+Detailed match settings are listed in Appendix 1.
 
-* Official points standings.  
-  * Stages result  
-  * Total points in Stages
+### 5.3 Last Chance Qualifier
 
-6. # **Event Schedule and location** {#event-schedule-and-location}
+The Last Chance Qualifier (LCQ) is played between regular stages and the Final Event.
 
-**Baltic Trackmania League**  
-*The event is held Online.*  
-*Matches are played in the Baltic Trackmania Club in-game.*  
-*Announcements and communication with organizers is over Discord.*
+- Eligible participants: any players eligible for Baltic Trackmania League, except those already qualified for Finals
+- Maps: all maps from the official pack
+- Mode: rounds format, 5 rounds per map, across all 6 Final Event maps
+- Winner and runner-up qualify for the Final Event
+- LCQ finishing positions define their seeding positions for Finals
 
-*Baltic Trackmania League Stages:*  
-*\- Stage 1 \- 11 March (Wednesday) 21:00*  
-*\- Stage 2 \- 14 March (Saturday) 21:00*  
-*\- Stage 3 \- 18 March (Wednesday) 21:00*  
-*\- Stage 4 \- 21 March (Saturday) 21:00*  
-*\- Stage 5 \- 25 March (Wednesday) 21:00*  
-*\- Stage 6 \- 28 March (Saturday) 21:00* 
+LCQ tie-breakers:
+1. Official points standings
+2. Stage results
+3. Total stage points
 
-*\- Last Chance Qualifier \- 10 April (Friday) 21:00*  
-***FINAL EVENT***  
-*Play-off:  11-12 April*
+## 6. Event Schedule and Location
 
-*Day 1: Swiss*  
-*Starts at 16:00 EET.*  
-*Approximate schedule:*  
-*Round 1 \- 16:00*  
-*Round 2 \- 16:45*  
-*Round 3 \- 17:30*  
-*Round 4 \- 18:15*  
-*Round 5 \- 19:00*
+Event format:
+- Online event
+- Matches played in the Baltic Trackmania in-game club
+- Main communication and announcements via Discord
 
-*Day 2: Double Elimination*  
-*Starts at 16:00 EET*  
-*Approximate schedule:*  
-*Round 1 \- 16:00 \- Round of 8*  
-*Round 2 \- 17:00 \- Winners Final / Losers Semi-Final*  
-*Round 3 \- 18:00 \- Consolidation match*  
-*Round 4 \- 19:00 \- Grand Final*
+### 6.1 Stage Dates
 
-7. # **Streaming** {#streaming}
+- Stage 1: 11 March (Wednesday), 21:00 EET
+- Stage 2: 14 March (Saturday), 21:00 EET
+- Stage 3: 18 March (Wednesday), 21:00 EET
+- Stage 4: 21 March (Saturday), 21:00 EET
+- Stage 5: 25 March (Wednesday), 21:00 EET
+- Stage 6: 28 March (Saturday), 21:00 EET
 
-The main stream of the event will be done on the FastPoint channel in English. 
+### 6.2 Last Chance and Finals
 
-# The official cast for the Event will be performed by: LuckersTurbo, Beamzi & Yug.
+- Last Chance Qualifier: 10 April (Friday), 21:00 EET
+- Final Event Play-off: 11-12 April
 
-**Restreaming** of the official cast requires permission from the event staff.
+Day 1 (Swiss):
+- Starts at 16:00 EET
+- Round 1: 16:00
+- Round 2: 16:45
+- Round 3: 17:30
+- Round 4: 18:15
+- Round 5: 19:00
 
-# 
+Day 2 (Double Elimination):
+- Starts at 16:00 EET
+- Round 1: 16:00 (Round of 8)
+- Round 2: 17:00 (Winners Final / Losers Semi-Final)
+- Round 3: 18:00 (Consolidation match)
+- Round 4: 19:00 (Grand Final)
 
-# Any other Streams that is related to the event are allowed and are highly encouraged to be posted on the \#streams Channel in FastPoint Discord and \#streams channel on the Baltic Trackmania Discord
+## 7. Streaming
 
-* 3rd Party Casts \- Team/Player Casts.  
-* POV (Point of View) Streams  
-* Match/Event Predictions  
-* Match/Event Discussions
+The main broadcast is on the FastPoint channel in English.
 
-	Please reach out to organizers for spectator permissions.
+Official cast:
+- LuckersTurbo
+- Beamzi
+- Yug
 
-**Appendix 1\. Game settings.**
+Restreaming the official cast requires staff permission.
 
-**Baltic Trackmania League \- Stages**  
-**Seeding**  
-**Mode:** Time Attack  
-**Number of  maps:** 1  
-**Time per map:** 900 *(15 minutes)*
+Other event-related streams are allowed and encouraged to be shared in:
+- #streams channel in FastPoint Discord
+- #streams channel in Baltic Trackmania Discord
 
-**Division matches**  
-**Mode:** Cup Classic, Double elimination  
-**Points limit:** 70 *(100 in grand final)*  
-**Number of  maps:** 1  
-**Warmup time:** 65  
-**Finish Timeout:** 20  
-**PointDistribution:** 10,6,4,3,2,1
+Examples:
+- Third-party casts (team/player)
+- POV streams
+- Match or event predictions
+- Match or event discussions
 
-**Number of Winners:** 2 *(3 per grand final)*
+For spectator permissions, contact event organizers.
 
-**LAST CHANCE**  
-**Mode:** Rounds  
-**Number of  maps:** 6  
-**Warmup time:** 65  
-**Finish Timeout:** 25  
-**PointDistribution:** 15,12,10,8,6,5,4,3,2,1  
-*(will be adapted based off amount of players checked in)*
+## 8. Appendix 1 - Game Settings
 
-**BTL PLAY-OFF STAGE \-** 
+### 8.1 Baltic Trackmania League Stages
 
-**Group Stage**  
-**Game mode:** *Cup*  
-**Map order:** 1 *Random ban, 5 maps Random order*  
-**Rounds per map:** *3*  
-**Maps played:** *5*  
-**Points Limit:** *100*  
-**Winners:** *2 (3 in 2-1 1-2 2-2 Matches)*  
-**Warm-up:** *20 seconds*  
-**Finish time out:** *15 seconds*  
-**Points repartition:** *10,6,4,3 (10,7,5,3,2,1 in 2-1 1-2 2-2 Matches)*
+Seeding:
+- Mode: Time Attack
+- Number of maps: 1
+- Time per map: 900 seconds (15 minutes)
 
-**Play-offs.**  
-**Game mode:** *Cup*  
-**Map order:** *Pick/Ban ( S1:B; S1-4:P )*  
-**Rounds per map:** *4*  
-**Maps played:** *5*  
-**Points Limit:** *120 (Grand Final \- 140\)*  
-**Winners:** *2 (Grand Final \- 3\)*  
-**Warm-up:** *20 seconds*  
-**Finish time out:** *10 seconds*  
-**Points repartition:** *10,6,4,3*
+Division matches:
+- Mode: Cup Classic, Double Elimination
+- Points limit: 70 (100 in Grand Final)
+- Number of maps: 1
+- Warm-up time: 65 seconds
+- Finish timeout: 20 seconds
+- Point distribution: 10,6,4,3,2,1
+- Number of winners: 2 (3 in Grand Final)
 
+### 8.2 Last Chance Qualifier
+
+- Mode: Rounds
+- Number of maps: 6
+- Warm-up time: 65 seconds
+- Finish timeout: 25 seconds
+- Point distribution: 15,12,10,8,6,5,4,3,2,1
+- Point distribution may be adapted to the number of checked-in players
+
+### 8.3 BTL Play-off Stage
+
+Group Stage:
+- Game mode: Cup
+- Map order: Random ban + 5 maps in random order
+- Rounds per map: 3
+- Maps played: 5
+- Points limit: 100
+- Winners: 2 (3 in 2-1, 1-2, 2-2 matches)
+- Warm-up: 20 seconds
+- Finish timeout: 15 seconds
+- Point repartition: 10,6,4,3 (10,7,5,3,2,1 in 2-1, 1-2, 2-2 matches)
+
+Play-offs:
+- Game mode: Cup
+- Map order: Pick/Ban (S1:B; S1-4:P)
+- Rounds per map: 4
+- Maps played: 5
+- Points limit: 120 (Grand Final: 140)
+- Winners: 2 (Grand Final: 3)
+- Warm-up: 20 seconds
+- Finish timeout: 10 seconds
+- Point repartition: 10,6,4,3
